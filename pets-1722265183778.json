@@ -1,0 +1,26 @@
+[
+  {
+    "color": "black",
+    "type": "cat",
+    "size": "nano",
+    "name": "Destructor"
+  },
+  {
+    "color": "white",
+    "type": "rat",
+    "size": "nano",
+    "name": "Ratiti"
+  },
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "nano",
+    "name": "pu"
+  },
+  {
+    "color": "lightbrown",
+    "type": "cat",
+    "size": "nano",
+    "name": "Ginger"
+  }
+]
